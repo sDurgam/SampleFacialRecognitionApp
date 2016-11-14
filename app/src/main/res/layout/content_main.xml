@@ -13,8 +13,16 @@
     tools:context="com.durga.sph.samplefacialrecognitionapp.MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <TextView
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:gravity="center"
+        android:text="@string/take_picture"
+        android:layout_centerInParent="true"
+        android:id="@+id/takePicturesBtn"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"/>
 </RelativeLayout>

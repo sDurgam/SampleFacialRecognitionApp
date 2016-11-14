@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/buttonStartTimer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Timer"
+        android:onClick="startTimer" />
+    <TextView
+        android:id="@+id/textTimeLeft"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        />
+</LinearLayout>

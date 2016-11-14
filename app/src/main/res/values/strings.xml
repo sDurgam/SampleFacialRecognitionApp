@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleFacialRecognitionApp</string>
+    <string name="action_settings">Settings</string>
+</resources>

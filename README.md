@@ -9,3 +9,4 @@ https://developer.android.com/reference/android/hardware/Camera.html
 https://developer.android.com/reference/android/support/v4/content/FileProvider.html
 http://mobiledevtuts.com/android/android-sdk-how-to-make-an-automatic-snapshot-android-app/
 https://developer.android.com/reference/android/os/AsyncTask.html
+https://www.linux.com/learn/how-call-camera-android-apps-part-2-capture-and-store-photos

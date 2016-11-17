@@ -7,7 +7,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Start Timer"
-        android:onClick="startTimer" />
+        />
     <TextView
         android:id="@+id/textTimeLeft"
         android:layout_width="fill_parent"
